@@ -1,0 +1,33 @@
+.h{
+    border: 1px solid white;
+    width: 280px;
+    height: 430px;
+    border-radius: 15px;
+ background-color: white;
+   
+}
+.h img{
+    border: 1px solid white;
+     border-radius: 15px;
+     margin-left: 15px;
+     margin-top: 15px;
+}
+#h{
+    font-family: arial;
+     font-weight: bold;
+      text-align: center;
+       font-size: 18px;
+}
+#hh{
+    font-family: arial; 
+    color: grey; 
+    text-align: center; 
+    font-size: 14px;
+}
+.hh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 80px;
+}
